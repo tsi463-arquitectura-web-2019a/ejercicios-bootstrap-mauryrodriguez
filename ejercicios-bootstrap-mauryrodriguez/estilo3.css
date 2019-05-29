@@ -1,0 +1,21 @@
+
+a{
+	 letter-spacing: -1.5px;
+	 font-size: 12px; 
+}
+
+.colorContext{
+	color: #BCBBBB;
+}
+.colorTitleImg{
+	color: #747704;
+}
+
+.formatGeneral{
+
+	font-family:  sans-serif;
+}
+
+hr{
+	border: 2px  solid #BCBBBB;
+}

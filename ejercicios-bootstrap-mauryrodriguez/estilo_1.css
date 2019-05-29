@@ -1,0 +1,24 @@
+.h1{
+	text-align: left;
+	background-color: #33BEBE;
+	height: 60px;
+	color:white;
+	padding:10px 0px 0px 10px; 
+	font-weight: normal;	
+	margin-top: 10%;
+	margin-bottom: 3%;
+
+}
+.texto{
+	color: #7C8B88;
+}
+
+img{opacity: 1.0;
+	
+	filter: alpha(opacity=50);
+}
+img:hover{
+	opacity: 0.5;
+	
+	filter: alpha(opacity=100);
+}

@@ -1,0 +1,20 @@
+
+.letters{
+
+	color: #D0C4AB;
+	margin-left: 10px;	
+
+}
+
+.containers{
+	background-color: #D0C4AB;
+	float: left;
+	padding: 50px 3px 50px 10px;	
+
+}
+.containers2{
+	background-color: #D0C4AB;
+	float: right;
+	padding: 50px 3px 50px 10px;
+	
+	}
